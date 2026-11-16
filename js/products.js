@@ -60,8 +60,9 @@ window.STEAMEDGE_PRODUCTS = [
     category: "accessories",
     label: "POWER",
     shortDescription: "A dedicated cable for charging the SteamEdge handle.",
+    image: "assets/Screenshot 2026-11-13 145427.png",
     description: "The SteamEdge charging cable is an accessory for the rechargeable handle. Add connector type, cable length, and charging specifications once confirmed.",
-    visual: "cable"
+    featured: true
   },
   {
     id: "replacement-handle",
