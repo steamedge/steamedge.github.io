@@ -38,7 +38,7 @@ window.STEAMEDGE_PRODUCTS = [
     label: "THE COMPLETE SETUP",
     shortDescription: "The top-tier SteamEdge kit for a more complete setup.",
     description: "The Premium Kit is the highest-level SteamEdge package. Update this text with the finalized package contents, accessories, and benefits before publishing the store.",
-    image: "assets/steamedge-front.png",
+    image: "assets/Screenshot 2026-11-13 123838.png",
     imageAlt: "Front view of the SteamEdge razor",
     featured: true
   },
