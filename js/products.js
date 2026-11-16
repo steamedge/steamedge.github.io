@@ -49,8 +49,8 @@ window.STEAMEDGE_PRODUCTS = [
     category: "accessories",
     label: "REPLACEMENT",
     shortDescription: "Replacement blades for your SteamEdge razor head.",
+    image: "assets/Screenshot 2026-11-13 115526.png",
     description: "Keep replacement blades available for your SteamEdge setup. Add final blade count, compatibility information, and replacement guidance here.",
-    visual: "blade",
     featured: true
   },
   {
